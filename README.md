@@ -16,8 +16,8 @@ Proyek ini bertujuan untuk menganalisis data penjualan Superstore secara menyelu
 * **Microsoft Word**: Penyusunan laporan akhir analisis secara terstruktur.
 
  📊 Tampilan Dashboard
-![Dashboard Tableau](images/DASHBOARD_TABLEAU.PNG)
-![Dashboard Power BI](images/Dashboard Power BI.jpg)
+* ![Dashboard Tableau](images/DASHBOARD_TABLEAU.PNG)
+* ![Dashboard Power BI](images/Dashboard Power BI.jpg)
 
 💡 Insight Utama (Key Findings)
 Berdasarkan visualisasi *dashboard* di atas:
