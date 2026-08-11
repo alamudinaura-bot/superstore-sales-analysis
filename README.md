@@ -16,8 +16,7 @@ Proyek ini bertujuan untuk menganalisis data penjualan Superstore secara menyelu
 * **Microsoft Word**: Penyusunan laporan akhir analisis secara terstruktur.
 
  📊 Tampilan Dashboard
-* ![Dashboard Tableau](images/DASHBOARD_TABLEAU.PNG) ![Dashboard Power BI](images/Dashboard Power BI.jpg)
-
+* ![Dashboard Tableau](images/DASHBOARD_TABLEAU.PNG) 
 💡 Insight Utama (Key Findings)
 Berdasarkan visualisasi *dashboard* di atas:
 * **Total Performa**: Total penjualan mencapai **2,297,201** dengan total keuntungan sebesar **286,397** dan total kuantitas produk terjual sebanyak **37,873** unit.
